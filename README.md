@@ -1,4 +1,6 @@
-## Hi there 👋
+## Meu nome é Dhyony, tenho 16 anos e estou cursando o 1º ano do Ensino Médio. Atualmente, estou iniciando meus estudos na área de programação, com foco nas linguagens Python e Java.
+
+Também possuo formação básica em inglês, tendo concluído dois semestres do curso. Busco continuamente desenvolver minhas habilidades e adquirir novos conhecimentos, especialmente na área de tecnologia.👾🤖
 
 <!--
 **dhyony/dhyony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
